@@ -1,6 +1,5 @@
 <h1>Motorized Eagle Store</h1>
 <br>
-![photo_2025-03-29_13-34-24](https://github.com/user-attachments/assets/8f43fe92-c8ee-4dab-a762-861c9313d0b1)
 
 
 
